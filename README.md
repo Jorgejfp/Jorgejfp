@@ -1,4 +1,4 @@
-# Jorge Flores 
+# Jorge Flores
   
 ## 🌟 Executive Profile | Software Developer and Data Analyst
 
@@ -68,3 +68,7 @@ I'm excited to leverage my deep knowledge of business processes as I embark on t
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jorgejfp)
 
 </center>
+
+## 🎨 Image Showcase
+
+![DALL·E 25](https://github.com/Jorgejfp/Jorgejfp/raw/main/pictures/DALL·E%2025.jpeg)
