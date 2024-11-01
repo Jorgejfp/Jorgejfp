@@ -1,4 +1,5 @@
 # Jorge Flores 
+  ![Descripción de la Imagen](https://github.com/jorgejfp/Jorgejfp/blob/main/image.png?raw=true)
   
 ## 🌟 Executive Profile | Software Developer and Data Analyst
 
