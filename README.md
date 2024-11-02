@@ -1,4 +1,4 @@
-# My Profile
+# About 
   ![Descripción de la Imagen](https://github.com/Jorgejfp/Jorgejfp/blob/main/jjfp_logo.png?raw=true) 
   
 ## 🌟 Executive Profile | Software Developer and Data Analyst
