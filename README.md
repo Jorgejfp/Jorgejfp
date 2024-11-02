@@ -2,7 +2,7 @@
   ![Descripción de la Imagen](https://github.com/Jorgejfp/Jorgejfp/blob/main/jjfp_logo2.png?raw=true) 
   
 ## 🌟 Executive Profile | Software Developer and Data Analyst
-
+  
 Hello! I'm Jorge Flores Pérez, a beginner in the fields of **software development** and **data analysis**, but I bring with me over 20 years of experience in understanding and working with business data through my extensive background in accounting, financial management, and strategic business planning. I've also supported the migration of banking and administrative systems, including SAP B1. 
 
 I'm excited to leverage my deep knowledge of business processes as I embark on this new journey into technology.
